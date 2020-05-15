@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56315c9c.chunk.css",
+    "main.js": "/static/js/main.e66e39c2.chunk.js",
+    "main.js.map": "/static/js/main.e66e39c2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.53b04572.js",
+    "runtime-main.js.map": "/static/js/runtime-main.53b04572.js.map",
+    "static/js/2.718e9500.chunk.js": "/static/js/2.718e9500.chunk.js",
+    "static/js/2.718e9500.chunk.js.map": "/static/js/2.718e9500.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2f3280b9ce308187489035507546c984.js": "/precache-manifest.2f3280b9ce308187489035507546c984.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.56315c9c.chunk.css.map": "/static/css/main.56315c9c.chunk.css.map",
+    "static/js/2.718e9500.chunk.js.LICENSE.txt": "/static/js/2.718e9500.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/static/media/OscineTrial-Light.cc57cfee.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53b04572.js",
+    "static/js/2.718e9500.chunk.js",
+    "static/css/main.56315c9c.chunk.css",
+    "static/js/main.e66e39c2.chunk.js"
+  ]
+}
